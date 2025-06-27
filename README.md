@@ -1,6 +1,31 @@
 # Netflix GPT
  - Create React App
  - Configured Tailwindcss
+ - Header
+ - Routing of App
+ - Login Form
+ - Sign up Form
+ - Form Validation
+ - useRef Hook
+ - Firebase Setup
+ - Deploying our app to production
+ - Create SignUp User Account
+ - Implement Sign In user API
+ - Created Redux Store with userSlice
+ - Implemented Sign Out
+ - Update Profile
+ - Unsubscribed to the onAuthStateChanged callback
+ - Add hardcoded values to the constants file
+ - Register TMDB API & create an App & get access token
+ - Get Data from TMDB, now playing movies list API
+ - Custom Hook for Now Playing Movies
+ - Create MovieSlice
+ - Update Store with movies data
+ - Planning for Main Container & Secondary Container
+ - Fetch data for Trailer Video
+ - Update Store with Trailer Video Data
+ - Embedded the Youtube video and make it autoplay,mute
+ - Added Tailwind CSS to make Main Container look awesome
 
 # Features
  - Login/Sign Up
