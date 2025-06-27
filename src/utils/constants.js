@@ -4,6 +4,8 @@ export const DEFAULT_USER_AVATAR = "https://static.vecteezy.com/system/resources
 
 export const USER_AVATAR = "https://avatars.githubusercontent.com/u/216258344?s=48&v=4";
 
+export const MOVIE_POSTER_URL = "https://image.tmdb.org/t/p/w500";
+
 export const API_OPTIONS = {
   method: 'GET',
   headers: {
