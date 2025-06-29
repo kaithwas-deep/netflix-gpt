@@ -6,6 +6,8 @@ export const USER_AVATAR = "https://avatars.githubusercontent.com/u/216258344?s=
 
 export const MOVIE_POSTER_URL = "https://image.tmdb.org/t/p/w500";
 
+export const BACKGROUND_POSTER_URL = "https://assets.nflxext.com/ffe/siteui/vlv3/8200f588-2e93-4c95-8eab-ebba17821657/web/IN-en-20250616-TRIFECTA-perspective_9cbc87b2-d9bb-4fa8-9f8f-a4fe8fc72545_large.jpg";
+
 export const API_OPTIONS = {
   method: 'GET',
   headers: {
@@ -13,3 +15,5 @@ export const API_OPTIONS = {
     Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZGJkMmUwZTUyMDEyZGYzYjM1ZDEyMWE3MTc0YmNmMSIsIm5iZiI6MTc1MDkzMjczNy40MjU5OTk5LCJzdWIiOiI2ODVkMWQwMWQ4ZDc2MWQ5OGMxNTU2YTEiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.TY0sVENChOzS9ABIBq9bAJPDAJfTgmvtmXpXvtumNeY'
   }
 };
+
+export const SUPPORTED_LANGUAGES = [{identifier:"en", name:"English"}, {identifier:"hindi", name:"Hindi"}, {identifier:"spanish", name:"Spanish"}];
